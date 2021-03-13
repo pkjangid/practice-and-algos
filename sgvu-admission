@@ -1,0 +1,27 @@
+#include<stdio.h>
+int main ()
+{ 
+   float a, b, c, d;
+  
+  printf("************ welcome to admission department in sgvu *******************\n");
+  printf(" addiction of three sub. physics,chemistry,biology \n");
+  printf("enter your physics marks \n");
+  scanf("%f",& a);
+  printf("enter your chemistry marks \n");
+  scanf("%f",& b);
+  printf("enter your biology marks \n");
+  scanf("%f",& c);
+  
+  d = (a+b+c)/3;
+  
+  if(d>=60){
+          printf("congratulation !! you are eligible to take admission in Sgvu, jaipur\n");
+          }
+       else
+         {
+           printf("sorry !! you are not eligible to take admission in Sgvu jaipur\n");
+         }
+  
+  
+
+}
