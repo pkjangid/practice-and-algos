@@ -12,4 +12,5 @@ int main()
 
     printf("\n\n\t\t\tmade by pritam kumar !\n\n\n");
     return 0;
+
 }
