@@ -9,7 +9,9 @@ struct student {
    char  class[50];
 };
  
-int main( ) {
+int main( ) 
+
+{
 
    struct student student1;        
    struct student student2;
