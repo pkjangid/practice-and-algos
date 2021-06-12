@@ -22,6 +22,4 @@ int main ()
            printf("sorry !! you are not eligible to take admission in Sgvu jaipur\n");
          }
   
-  
-
-}
+  }
