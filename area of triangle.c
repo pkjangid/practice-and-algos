@@ -20,5 +20,6 @@ int main()
     printf("\n\n\nThe area of the triangle is: %f", area);
 
     printf("\n\n\t\t\tmade by me !\n\n\n");
-    return 0;
+    
+return 0;
 }
