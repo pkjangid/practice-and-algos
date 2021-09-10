@@ -30,4 +30,5 @@ void main()
 		printf("%d\n", stack[i]);
 	}
 	
+
 }
