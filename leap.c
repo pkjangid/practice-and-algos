@@ -32,5 +32,4 @@ int main()
 
     printf("\n\n\t\t\tmade by pritam !\n\n\n");
     return 0;
-
 }
