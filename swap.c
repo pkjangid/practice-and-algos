@@ -13,3 +13,5 @@ a=a-b;//a=20 (30-10)
 printf("\nAfter swap a=%d b=%d",a,b);    
 return 0;  
 }
+
+@pkjangikd
