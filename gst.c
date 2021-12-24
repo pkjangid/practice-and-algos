@@ -13,6 +13,4 @@ int main()
  printf("your total price is =%f",total);
  printf("\n\nthank you very much\n\n\n");
  printf("==================== END =================");
-
-
 }
