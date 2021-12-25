@@ -64,6 +64,7 @@ void main()
 		if (transaction == 'n'|| transaction == 'N')
                     k = 1;
 	} while (!k);
+
 	
 printf("\n\n THANKS FOR USING OUT ATM SERVICE");
 	
