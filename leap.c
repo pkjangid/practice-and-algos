@@ -30,6 +30,7 @@ int main()
     else
         printf("\n\n%d is not a leap year\n", year);
 
+    
     printf("\n\n\t\t\tmade by pritam !\n\n\n");
     return 0;
 }
