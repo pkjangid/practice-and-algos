@@ -65,6 +65,7 @@ void main()
                     k = 1;
 	} while (!k);
 
+
 	
 printf("\n\n THANKS FOR USING OUT ATM SERVICE");
 	
