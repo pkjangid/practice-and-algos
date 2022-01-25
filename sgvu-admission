@@ -19,7 +19,8 @@ int main ()
           }
        else
          {
-           printf("sorry !! you are not eligible to take admission in Sgvu jaipur\n");
+          
+ printf("sorry !! you are not eligible to take admission in Sgvu jaipur\n");
          }
   
   }
