@@ -19,6 +19,5 @@ int main()
     
 printf("\nNew String (after replacing vowel with %c) = %s", ch, str);
     
-   
- return 0;
+   return 0;
 }
