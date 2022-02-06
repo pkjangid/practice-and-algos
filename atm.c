@@ -68,6 +68,7 @@ void main()
 
 	
 printf("\n\n THANKS FOR USING OUT ATM SERVICE");
+
 	
 
 }
