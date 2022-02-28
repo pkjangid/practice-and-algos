@@ -52,6 +52,7 @@ int main()
 
 	head = insertatfrist(head,56);
 
+	
 	printf("after\n");
 	linkchecker(head);
 
