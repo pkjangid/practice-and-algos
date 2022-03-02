@@ -2,6 +2,7 @@
 
 void bubble_sort(int A[], int n)
 {
+
   int round,i,temp;
    for(round=0;round<=n-1;round++)
       for(i=0;i<=n-1-round;i++)
